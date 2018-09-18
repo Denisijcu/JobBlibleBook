@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Job</string>
+    <string name="app_nameAutor">Autores</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Acerca de...</string>
+
+
+    <string name="title_activity_scrolling">Poesia Biblica</string>
+    <string name="large_text0">
+        "Autores \n\n"
+        "El libro de Job no especifica el nombre de su autor. \n\n"
+        "Los candidatos más probables son Job, Eliú, Moisés, y Salomón.\n\n"
+        "Fecha de su Escritura: La fecha de la autoría del Libro de Job sería"
+        "determinada por el autor del Libro de Job.\n"
+        "Si Moisés fue el autor, la fecha sería alrededor del 1440 a.C.\n"
+        "Si su autor fue Salomón, la fecha sería alrededor de 950 a.C. \n
+        "Como no conocemos al autor, tampoco podemos saber la fecha de su escritura.\n\n"
+
+
+
+    </string>
+    <string name="title_capitulo_list">Capitulos</string>
+    <string name="title_capitulo_detail">Capitulo Detail</string>
+    <string name="title_activity_autores">Autores</string>
+    <string name="title_activity_versos_claves">Versos Claves</string>
+    <string name="large_text1">
+        "Job 1:1 Hubo en tierra de Uz un varón llamado Job; y era este hombre perfecto y recto, temeroso de Dios y apartado del mal.\n\n"
+
+        "Job 1:21 y dijo: Desnudo salí del vientre de mi madre, y desnudo volveré allá. Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito.\n\n"
+
+        "Job 38:1-2 “Entonces respondió Jehová a Job desde un torbellino, y dijo: ¿Quién es ése que oscurece el consejo con palabras sin sabiduría?\n\n"
+
+        "Job 42:5-6 “De oídas te había oído; mas ahora mis ojos te ven. Por tanto me aborrezco, y me arrepiento en polvo y ceniza."
+    </string>
+     <string name="large_text2">
+         "Ensenanza \n\n"
+         "El Libro de Job nos enseña lo siguiente:\n\n"
+         "Satanás no puede traer sobre nosotros la destrucción financiera y física,"
+         "a menos que sea bajo el permiso de Dios.\n"
+         "Dios tiene el poder sobre lo que Satanás puede y no puede hacer. Está más allá de"
+         "nuestra humana habilidad para entender el ¿por qué? detrás de todo el sufrimiento en el mundo.\n\n"
+         "Los impíos recibirán su justo pago.\n\n"
+         "No siempre podemos culpar por nuestro sufrimiento al pecado y nuestro estilo de vida. El sufrimiento puede ser permitido"
+         "a veces en nuestras vidas con el fin de purificarlas, probarlas, o enseñar o fortalecer el alma.\n\n"
+         "Dios sigue siendo suficiente,"
+         "y pide y merece nuestro amor y alabanza en todas las circunstancias de la vida."
+
+    </string>
+    <string name="large_text4">
+         "Bibliografia \n\n"
+         "Para la elaboración de app se tomaron información de las siguientes fuentes:\n\n"
+         "Textos Biblicos del sitio https://www.biblegateway.com" y http://antipas.net/sb/18sj.htm \n\n"
+         "Imagenes en www.google.com  \n\n"
+         "Comentarios del sitio http://www.gotquestions.org/Espanol/Libro-de-Job.html,"
+
+    </string>
+
+     <string name="large_text5">
+         "                   Acerca de ... \n\n"
+         "                       JOB              \n\n    "
+         "     Coleccion Poesia Biblica\n\n"
+         "               Desarrollado por: \n\n"
+         "          DENIS SANCHEZ LEYVA \n\n"
+         "               www.dslijcu.com"
+
+    </string>
+
+</resources>

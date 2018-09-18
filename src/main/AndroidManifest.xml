@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.poesisbiblicas.coleccion.myapplication">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/job"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CapituloListActivity"
+            android:label="@string/title_capitulo_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CapituloDetailActivity"
+            android:label="@string/title_capitulo_detail"
+            android:parentActivityName=".CapituloListActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.poesisbiblicas.coleccion.myapplication.CapituloListActivity" />
+        </activity>
+        <activity android:name=".gridview" />
+        <activity android:name=".Ensenanza" />
+        <activity android:name=".mAutor" />
+        <activity android:name=".Versos" />
+        <activity android:name=".Bibliografia" />
+        <activity android:name=".Acercade"></activity>
+    </application>
+
+</manifest>
